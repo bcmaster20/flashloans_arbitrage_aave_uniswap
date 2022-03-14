@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <h3 align="center">DeFi 201 - Lets hack Flash Loans</h3>
+  <h3 align="center">Flash Loans Arbitrage Aave</h3>
   <p align="center">
-    Freeze time/space with Flash Loans
-    <br />
     <a href="https://docs.aave.com/developers/tutorials/performing-a-flash-loan"><strong>Explore the AAVE dev Flash Loans docs »</strong></a>
     <br />
   </p>
