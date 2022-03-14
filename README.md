@@ -1,10 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="#Program-Basics-Flash-Loan">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfQVLbjfGPX5Cl-DaRe0WE-ZqQycN-l_Vz-9m0RGU4w-9UBSV_A&s" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">DeFi 201 - Lets hack Flash Loans</h3>
+  <h3 align="center">Flash Loans Solidity Project</h3>
   <p align="center">
     Freeze time/space with Flash Loans
     <br />
