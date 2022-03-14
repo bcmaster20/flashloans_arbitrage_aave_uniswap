@@ -29,7 +29,6 @@ Let's start with the basics the goal is for you to initiate a Flash Loan Transna
 * Get some Kovan Test Net ETH https://faucet.kovan.network/
 * Get some AAVE Test Net tokens https://testnet.aave.com/faucet 
 * Load the contract in Remix and deploy the contract
-* Fill all paramenters as explaind in the video
 * Exicute the Flash loan (Be Sure to have enouge DAI to pay the FEES)
 * If there are any questions, issues or future requests please submit an issue
 
@@ -55,8 +54,6 @@ Let's start with the basics the goal is for you to initiate a Flash Loan Transna
 * Exicute the Arbitrage Flash loan (Be Sure to have enouge DAI to pay the FEES)
 * If there are any questions, issues or future requests please submit an issue
 
-[![create your own arbitrage opportunity]]
-
 # Useful links
 Here are useful links
 * [Remix](https://remix.ethereum.org/)
@@ -70,12 +67,6 @@ Here are useful links
 * [A Graphical Guide for Understanding Uniswap](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
 * [Understand Uniswap Exchange in under 10 Minutes](https://www.youtube.com/watch?v=rlkizdfY0vo)
 * [Uniswap Whitepaper](https://hackmd.io/@Uniswap/HJ9jLsfTz#%F0%9F%A6%84-Uniswap-Whitepaper)
-
-
-<!-- DeFi === Financial Revolution -->
-# DeFi === Financial Revolution
-[![DeFi === Financial Revolution]](https://academy.ivanontech.com/a/27786/UHnVvoMT)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
